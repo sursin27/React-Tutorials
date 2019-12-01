@@ -37,6 +37,7 @@ class App extends Component {
         <ParentComponent />
         <UserGreeting /> */}
         <NameList />
+      <Counter />
       </div>
     )
   }
